@@ -233,7 +233,7 @@ email a:hover {
         width: 100%;
         float: left;
         position: relative;
-        background: url(../images/background.jpg) center top no-repeat;
+        background: url(../tools/background.jpg) center top no-repeat;
         background-size: cover;
         min-height: 360px;
     }
