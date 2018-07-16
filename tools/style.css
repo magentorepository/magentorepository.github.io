@@ -208,7 +208,7 @@ email a:hover {
 }
 @media only screen and (max-width: 1024px) {
     .abovebanner {
-        min-height: 400px;
+        min-height: 80vh;
     }
     .header {
         width: 100%;
@@ -235,7 +235,7 @@ email a:hover {
         position: relative;
         background: url(../tools/background.png) center top no-repeat;
         background-size: cover;
-        min-height: 360px;
+        min-height: 80vh;
     }
     .header {
         width: 100%;
