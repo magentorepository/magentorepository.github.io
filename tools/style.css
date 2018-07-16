@@ -62,7 +62,7 @@ body {
     position: relative;
     background: url(../tools/background.png) center top no-repeat;
     background-size: cover;
-    min-height: 499px;
+    min-height: 80vh;
 }
 .header {
     width: 100%;
